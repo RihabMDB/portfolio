@@ -25,7 +25,7 @@ export default function Skills() {
     And Here Are <span className="text-rose"> My Skills</span>
   </h2>
  
- <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 w-full px-8 mt-16">
+ <div class="grid lg:grid-cols-3 xl:grid-cols-5 gap-6 sm:grid-cols-2 sm:gap-2 sm:px-1 w-full px-8 mt-16">
   
    <div class="relative mx-auto "> 
     <div class="p-6 flex flex-col items-center text-center group ">

@@ -1,12 +1,10 @@
 import photo from "../assets/photo.png";
 import React from "react";
-import Title from "./Common/Title";
-import aboutdata from "../data"
 export default function About() {
 
     return (
     <>
-    <div class="container relative z-30  sm:pb-48  lg:pb-48 mx-15 sm:px-10 pt-48" id="about">
+    <div class="container relative z-30  sm:pb-48  lg:pb-48 mx-15 sm:px-10 sm:pt-24 pt-48" id="about">
           <div class="pt-10 sm:pt-15 lg:pl-12 lg:pt-0 ">
             
         <div class=" flex flex-col lg:flex-row">
