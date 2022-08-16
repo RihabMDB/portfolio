@@ -20,20 +20,14 @@ export default function Home() {
                 </div>
               </div>
               <div class="flex items-center justify-center pt-5 pl-2 sm:justify-start sm:pt-0">
-                <a href="/" >
+                <a href="https://www.linkedin.com/in/rihabmeddeb/" >
                   <i class="bx bxl-linkedin text-2xl text-white hover:text-yellow"></i>
                 </a>
-                <a href="/" class="pl-4">
+                <a href="https://github.com/RihabMDB" class="pl-4">
                   <i class="bx bxl-github text-2xl text-white hover:text-yellow"></i>
                 </a>
-                <a href="/" class="pl-4">
+                <a href="#contact" class="pl-4">
                   <i class="bx bxl-google text-2xl text-white hover:text-yellow"></i>
-                </a>
-                <a href="/" class="pl-4">
-                  <i class="bx bxl-facebook-square text-2xl text-white hover:text-yellow"></i>
-                </a>
-                <a href="/" class="pl-4">
-                  <i class="bx bxl-instagram text-2xl text-white hover:text-yellow"></i>
                 </a>
                 
               </div>

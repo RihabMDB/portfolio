@@ -28,7 +28,7 @@
         <div className="flex flex-col align-items items-center h-60 mx-5 bg-custumgray w-52 px-6 py-6  rounded-lg shadow-3xl shadow-custumviolet text-lg transation duration-300 
         hover:bg-backbox hover:-translate-y-6 cursor-pointer ">
         <img  className="rounded-full mt-2 h-16 w-16 px" src={fix} alt="a" />
-          <div className=" mt-4 text-center"> Editing Existing Projects</div>
+          <div className=" mt-4 text-center"> Scrap data from the Web</div>
         </div>
 
         
